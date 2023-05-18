@@ -13,6 +13,7 @@ Este repositório contém uma calculadora simples desenvolvida usando o Android 
 - Multiplicação: permite multiplicar dois números.
 - Divisão: permite dividir um número por outro.
 - Limpar: permite limpar os campos de entrada e reiniciar os cálculos.
+- Apagar: permite apagar o ultimo caractere inserido na entrada.
 
 ## Pré-requisitos
 
