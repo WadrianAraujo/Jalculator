@@ -3,7 +3,7 @@
 Este repositório contém uma calculadora simples desenvolvida usando o Android Studio com Java. A calculadora possui uma interface intuitiva e fornece funcionalidades básicas de cálculo, como adição, subtração, multiplicação e divisão.
 
 <p align="center">
-  <img src="https://github.com/WadrianAraujo/WadrianAraujo/blob/355a4f498fc2bbcd71a548e0d9c1867aee696645/ImagesForReadMe/Jalculator/JalculatorHome.jpg" width="300">
+  <img src="https://github.com/WadrianAraujo/WadrianAraujo/blob/355a4f498fc2bbcd71a548e0d9c1867aee696645/ImagesForReadMe/Jalculator/JalculatorHome.jpg" width="250">
 </p>
 
 ## Funcionalidades
